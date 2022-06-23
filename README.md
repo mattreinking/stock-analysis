@@ -10,6 +10,6 @@
 
 ## Summary
 
-### Pros and Cons of Refactoring Code
+### Advantages vs Disadvantages of Refactoring Code
 
-### Original Script vs Refactored VBA Script 
+### Refactoring the VBA Script
